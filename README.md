@@ -9,7 +9,7 @@
 K회사는 IT회사로 솔류션 제품, 상품, 일반 용역서비스 등을 주요 사업으로 하는 회사다. K회사와 계약에 의해 K사로부터 제품, 상품, 용역서비스를 받은 고객(거래처)는 운영상 문제가 발생하면 K사의 고객지원팀에 연락하여 AS 등의 지원을 받는다. K사 고객지원팀은 이와 같은 요청사항을 엑셀,문서(word 또는 hwp 파일)로 관리, 작성하여 수작업으로 진행된다. 수작업으로 진행되는 업무를 전산솔루션으로 구축하여 고객(거래처)관리 와 고객별 계약관리, 요청사항 접수, 관리, 처리업무의 효율성과 생산성을 높이려고 한다.
 
 ## 프로그램 구성도
-<img src="https://github.com/qscd154/portfolio/assets/141804118/88751c38-af5a-47d0-bf0b-2af2b2b6ddf4" width=100% />
+![image01](https://github.com/qscd154/portfolio/assets/141804118/a9f87a9e-45ca-4fe0-a6c6-56d0d1375317)
 
 ## ERD
 <img src="https://github.com/qscd154/portfolio/assets/141804118/72c5090c-d738-4a17-99e3-7aa54111f5b3" width=100% />
