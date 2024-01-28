@@ -1,6 +1,6 @@
 # 콜 센터 관리 프로그램
 
-<img src="https://github.com/qscd154/portfolio/assets/141804118/a71e16b2-0fb4-404b-910c-bdcf18bb1cd7" width=100% />
+![image02](https://github.com/qscd154/portfolio/assets/141804118/12305f1c-5c41-437c-9df0-29b4c06bdf9b)
 
 
 
@@ -12,7 +12,7 @@ K회사는 IT회사로 솔류션 제품, 상품, 일반 용역서비스 등을 �
 ![image01](https://github.com/qscd154/portfolio/assets/141804118/a9f87a9e-45ca-4fe0-a6c6-56d0d1375317)
 
 ## ERD
-<img src="https://github.com/qscd154/portfolio/assets/141804118/72c5090c-d738-4a17-99e3-7aa54111f5b3" width=100% />
+![image03](https://github.com/qscd154/portfolio/assets/141804118/af999bf2-1194-42ee-a255-159eef7091a7)
 
 
 ## 기술 스택
