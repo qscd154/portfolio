@@ -23,31 +23,32 @@ K회사는 IT회사로 솔류션 제품, 상품, 일반 용역서비스 등을 �
 
 ## 기능 구현
 
-### 테스크(요청사항) 조회 화면
+### [테스크(요청사항) 조회 화면](https://github.com/qscd154/portfolio/blob/main/Form1.cs)
 - 테스크 조회 기능, 상세 테스크 조회 기능, 테스크 작업결과 등록 기능, 테스크 수정 기능, 테스크 상태 변경 기능, 회신 화면으로 이동 기능
+  
 
-### 거래처 등록 화면
+### [거래처 등록 화면](https://github.com/qscd154/portfolio/blob/main/Form4.cs)
 - 거래처 등록 기능
 
-### 프로젝트 등록 화면
+### [프로젝트 등록 화면](https://github.com/qscd154/portfolio/blob/main/Form6.cs)
 - 프로젝트 등록 기능
 
-### 테스크 등록 화면
+### [테스크 등록 화면](https://github.com/qscd154/portfolio/blob/main/Form2.cs)
 - 프로젝트 번호 조회 기능, 테스크 등록 기능, 첨부파일 업로드 기능
 
-### 테스크 상세(회신) 화면
+### [테스크 상세(회신) 화면](https://github.com/qscd154/portfolio/blob/main/Form5.cs)
 - 키워드 검색 기능, 회신 내용 미리보기 기능, 회신 기능
 
-### 로그인 화면
+### [로그인 화면](https://github.com/qscd154/portfolio/blob/main/Form7.cs)
 - 로그인 기능, 패스워드 표시 기능
 
-### 거래처 조회 화면
+### [거래처 조회 화면](https://github.com/qscd154/portfolio/blob/main/Form9.cs)
 - 거래처 조회 기능, 거래처 수정 기능
 
-### 프로젝트 조회 화면
+### [프로젝트 조회 화면](https://github.com/qscd154/portfolio/blob/main/Form8.cs)
 - 프로젝트 조회 기능, 프로젝트 수정 기능
 
-### 테스크 상세 등록 화면
+### [테스크 상세 등록 화면](https://github.com/qscd154/portfolio/blob/main/Form10.cs)
 - 테스크 상세 등록 기능
 
 
