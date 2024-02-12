@@ -66,7 +66,7 @@ namespace emedit.DAO
             // smtp SSL 보안 설정
             smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
             // 이메일을 네트워크를 통해 SMTP 서버로 전송
-            smtp.Credentials = new System.Net.NetworkCredential("jm0729a", "nfswjacwoiscsylz");
+            smtp.Credentials = new System.Net.NetworkCredential("id", "password");
             // 사용자 아이디와 비밀번호
             return smtp;
         }
